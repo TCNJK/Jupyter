@@ -1,0 +1,1447 @@
+Mooc1_Quiz1 Q1: Which of the following is NOT a reason why building products with great UX is hard? 
+A. You are not the user 
+B. Computers are weird 
+C. Software is (usually) complex 
+D. There is no known process that we can follow to create good UX Answer: D
+
+
+Mooc1_Quiz1 Q2: True or false: You need to have a degree in psychology in order to understand the principles behind good UX. 
+A. True 
+B. False Answer: B
+
+
+Mooc1_Quiz1 Q3: True or false: “User Experience” only describes the experience that people have while actually using a product, and not other related experiences like acquiring the product or fixing it when it breaks. 
+A. True 
+B. False Answer: B
+
+
+Mooc1_Quiz1 Q4: True or false: One of your goals in designing products with a good user experience should be to fail as early and often as possible. 
+A. True 
+B. False Answer: A
+
+
+Mooc1_Quiz1 Q5: Which of the following is not a phase in the iterative design process? 
+A. Build 
+B. Design 
+C. Stylize 
+D. Assess Answer: C
+
+
+Mooc1_Quiz1 Q6: A model of the design process that shows both the iterative nature and also how it progresses towards an end goal is: 
+A. The spiral model 
+B. The waterfall model 
+C. The hub-and-spoke model 
+D. The wave model Answer: A
+
+
+Mooc1_Quiz1 Q7: Interviews, Observations, Surveys, User Testing, and Inspection Methods are all examples of: 
+A. Common UX mistakes 
+B. UX Design methods 
+C. UX Research methods 
+D. UX Marketing methods Answer: C
+
+
+Mooc1_Quiz1 Q8: Which of the following components of UX were discussed in this week’s lectures? Check all that apply. 
+A. Value 
+B. Usability 
+C. Desirability 
+D. Adoptability 
+E. Scrollability 
+F. Monetizability Answer: A, B, C, D
+
+
+Mooc1_Quiz1 Q9: Which of the following questions would be most relevant to the UX criterion of “Adoptability”? 
+A. Where do users currently look for products or services like the one we will offer? 
+B. Do users prefer bright or muted colors for graphics in this product category? 
+C. How much would people be willing to pay for the product or service we plan to offer? 
+D. What percentage of people succeed in completing key tasks using the product? Answer: A
+
+
+Mooc1_Quiz1 Q10: True or false: In this course, you will “get your hands dirty” and gain hands-on experience with UX Research and Design methods. 
+A. True 
+B. False Answer: A
+
+
+Mooc1_Quiz2 Q1: True or false: In UX, “Design” is concerned only with the aesthetic (or beauty-related) aspects of products. 
+A. True 
+B. False Answer: B
+
+
+Mooc1_Quiz2 Q2: Which of the following is not part of a typical UX design process? 
+A. Understanding the problem 
+B. Generating possible solutions 
+C. Establishing the sale price for a product 
+D. Assessing prototypes and finding new problems Answer: C
+
+
+Mooc1_Quiz2 Q3: _____________ means "to make an idea real or concrete." 
+A. Assessment 
+B. Communication 
+C. Reification 
+D. Reflection Answer: C
+
+
+Mooc1_Quiz2 Q4: According to Bill Moggridge, “A representation of a design, made before the final solution exists” is called a: 
+A. Time capsule 
+B. Prototype 
+C. Brainstorm 
+D. Design representation Answer: B
+
+
+Mooc1_Quiz2 Q5: Which of the following is not an advantage of lo-fi prototyping? 
+A. You can identify problems before investing significant resources into a design direction. 
+B. You can work out aspects of graphic design such as fonts and color schemes, which have the largest impact on user experience. 
+C. Stakeholders are more likely to give honest feedback if they perceive that design ideas are “sketchy” rather than highly polished. 
+D. Lo-fi prototypes are easy to change, allowing you to iterate more rapidly than you could if you were creating more complex prototypes. Answer: B
+
+
+Mooc1_Quiz2 Q6: Bill Buxton claims that __________ is not just a byproduct of design, but is central to design thinking and learning. 
+A. Sketching 
+B. Beauty 
+C. Functionality 
+D. User Testing Answer: A
+
+
+Mooc1_Quiz2 Q7: True or false: it is important to be good at drawing to use sketching in UX Design. 
+A. True 
+B. False Answer: B
+
+
+Mooc1_Quiz2 Q8: True or false: in the “generation” phase, your goal should be to sketch many different design ideas rather than to perfect a single idea. 
+A. True 
+B. False Answer: A
+
+
+Mooc1_Quiz2 Q9: True or false: when sketching to come up with different design solutions, you should stop the first time you run out of ideas. 
+A. True 
+B. False Answer: B
+
+
+Mooc1_Quiz2 Q10: Brainstorming, morphological analysis, and “the worst idea” are examples of what kind of technique? 
+A. Ideation 
+B. Lo-fi prototyping 
+C. Convergence 
+D. Poor Answer: A
+
+
+Mooc1_Quiz3 Q1: The “central vision” portion of the human field of view, in which people can read text and recognize details in images, is approximately how wide? 
+A. 5° 
+B. 18° 
+C. 30° 
+D. 180° Answer: A
+
+
+Mooc1_Quiz3 Q2: The pattern of eye fixations that people perform when processing a web page has been shown to resemble what shape? 
+A. A circle 
+B. A spiral 
+C. The letter ‘F’ 
+D. The letter ‘Z’ Answer: C
+
+
+Mooc1_Quiz3 Q3: The effect that makes it easy to recognize objects in a visual field that differ from their background and all other objects in simple visual features like color and texture is called: 
+A. saccade 
+B. gestalt 
+C. brightness 
+D. pop-out Answer: D
+
+
+Mooc1_Quiz3 Q4: Which of the following is not considered a primitive visual feature that is processed in the first, and fastest, stage of visual processing? 
+A. angle of intersection 
+B. proximity 
+C. shade/contrast 
+D. motion Answer: B
+
+
+Mooc1_Quiz3 Q5: According to the original research on short-term memory, how many “items” can a person retain in short-term memory at one time? 
+A. One or two 
+B. About 7 
+C. About 10 
+D. There is no measurable limit Answer: B
+
+
+Mooc1_Quiz3 Q6: A collection of associated concepts in long-term memory is called what? 
+A. A thought 
+B. A schema 
+C. A mule 
+D. A gestalt Answer: B
+
+
+Mooc1_Quiz3 Q7: Which of the following does not impact the likelihood that something in long-term memory will be recalled? 
+A. strength of association 
+B. frequency of use 
+C. recency of use 
+D. accuracy of information Answer: D
+
+
+Mooc1_Quiz3 Q8: About how long does an item remain in short-term memory if it is not actively maintained through rehearsal? 
+A. Less than one second 
+B. A few seconds 
+C. A few minutes 
+D. Up to an hour Answer: B
+
+
+Mooc1_Quiz3 Q9: The recommendation “keep lists of options short” is given because: 
+A. short lists load faster on a web page. 
+B. designing long lists of options is a waste of time because most users will only ever choose one or two of them. 
+C. due to the limits of short-term memory, users will have forgotten the first items by the time they’ve gotten to the end of a long list. 
+D. long lists exceed users’ useful field of view, and they aren’t able to scan them effectively using saccades. Answer: C
+
+
+Mooc1_Quiz3 Q10: In the context of this lesson, the use of consistency, standards, and metaphor is recommended because: 
+A. people are afraid of things that are new and different. 
+B. they allow a design to take advantage of users’ existing schema. 
+C. they are typically required by platform guideline documents. 
+D. borrowing ideas from others is easier than coming up with your own. Answer: B
+
+
+Mooc1_Quiz4 Q1: Write the stages of action in the correct order in the text box below. There is no need to number them, and feel free to separate each stage with a comma: Interpreting the State of the World Selecting the Action Evaluating the Outcome Executing the Action Forming the Intention Perceiving the State of the World  Answer: No answer found
+
+
+Mooc1_Quiz4 Q2: If a user of a system is unable to find an option for action that they believe will move them closer to achieving their goal, we would say that the system fails to bridge: 
+A. The Gulf of Inspection 
+B. The Gulf of Expectation 
+C. The Gulf of Execution 
+D. The Gulf of Evaluation Answer: C
+
+
+Mooc1_Quiz4 Q3: If a user of a system is unable to determine whether an action they took helped to move them closer to achieving their goal, we would say that the system fails to bridge: 
+A. The Gulf of Inspection 
+B. The Gulf of Expectation 
+C. The Gulf of Evaluation 
+D. The Gulf of Execution Answer: C
+
+
+Mooc1_Quiz4 Q4: A feature of an environment or system that, by its shape and appearance, suggests to a person that a particular action could be taken is called: 
+A. An affordance 
+B. A signal 
+C. A constraint 
+D. A signpost Answer: A
+
+
+Mooc1_Quiz4 Q5: A feature of an environment or system that communicates through verbiage or imagery what will happen if an action is taken is called: 
+A. A signifier 
+B. A signal 
+C. Feedback 
+D. An icon Answer: A
+
+
+Mooc1_Quiz4 Q6: A change in an environment or system that indicates that a user’s action was recognized and communicates the result of that action is called: 
+A. Response time 
+B. A signal 
+C. Feedback 
+D. A dialogue box Answer: C
+
+
+Mooc1_Quiz4 Q7: Reducing the set of available actions to only those that are possible given a particular state of the system would be an example of applying: 
+A. Feedback 
+B. Constraints 
+C. Conceptual Models 
+D. Mapping Answer: B
+
+
+Mooc1_Quiz4 Q8: By helping users form effective ________, we can help users to predict the results of actions they haven’t yet performed using a system. 
+A. system images 
+B. assumptions 
+C. feedback 
+D. conceptual models Answer: D
+
+
+Mooc1_Quiz5 Q1: Neilsen’s set of 10 heuristics was designed to meet all of the following criteria except: 
+A. The heuristics are exhaustive and detailed enough to tell a designer exactly what elements to include in every possible part of every possible user interface 
+B. The heuristics are applicable to a wide range of different platforms and interaction modalities (e.g., mouse-and-keyboard, touch-based mobile, speech) 
+C. The heuristics are compact enough to be taught to a non-expert within a few hours 
+D. The heuristics are backed up by systematic research showing that the set of heuristics could explain a range of usability problems observed across numerous usability tests with multiple systems Answer: A
+
+
+Mooc1_Quiz5 Q2: For a system’s response to user input to be perceived as “instantaneous” by the user, what is the maximum time that can elapse between the user’s action and the system response? 
+A. 10 milliseconds 
+B. 100 milliseconds 
+C. 1 second 
+D. 1 minute Answer: B
+
+
+Mooc1_Quiz5 Q3: Using obscure system codes or non-intuitive imagery to represent system features and/or feedback violates which heuristic? 
+A. User control and freedom 
+B. Flexibility and efficiency of use 
+C. Aesthetic and minimalist design 
+D. Match between system and the real world Answer: D
+
+
+Mooc1_Quiz5 Q4: Because some users learn how to use a system through trial and error, it is important to: 
+A. provide extensive documentation to ensure that users always do the right thing 
+B. force users to undergo training before using a system so they don’t break anything 
+C. provide users with only one option at a time so that they cannot make mistakes 
+D. support “undo” and “redo” to help users recover from mistakes Answer: D
+
+
+Mooc1_Quiz5 Q5: According to Nielsen’s heuristics, “platform standards” are important to support in user interface design because: 
+A. Platform standards are always better than anything you could come up with on your own 
+B. Supporting standards allows users to leverage “schemas” they have developed through prior experiences with similar systems 
+C. Platform owners may refuse to allow your system to run on their platform if you do not conform 
+D. You can use pre-existing code libraries, which saves development time Answer: B
+
+
+Mooc1_Quiz5 Q6: Some web forms give instantaneous feedback about the validity of data entered into a form field every time a user types a character. This type of “in-process feedback” helps usability because: 
+A. It can be used to manipulate users into providing data they didn’t intend to provide 
+B. It encourages users to look up help and documentation to understand how the system works 
+C. It helps prevent errors before they happen 
+D. It keeps users focused on the current task rather than getting distracted Answer: C
+
+
+Mooc1_Quiz5 Q7: According to Wikipedia, a “direct manipulation interface” is one that features “continuous representation of objects of interest and rapid, reversible, and incremental actions and feedback.” The “continuous representation of objects of interest” is best aligned with which principle of good UI design? 
+A. Prevent errors before they happen 
+B. Support recognition over recall 
+C. Employ aesthetic and minimalist design 
+D. Support user control and freedom Answer: B
+
+
+Mooc1_Quiz5 Q8: A recommended technique for supporting “flexibility and efficiency of use” is: 
+A. the use of keyboard “accelerator” shortcuts 
+B. make sure all commands are represented graphically on the screen 
+C. streamline the design to minimize page load times 
+D. eliminate as many commands as possible to prevent possible errors Answer: A
+
+
+Mooc1_Quiz5 Q9: From a usability point of view, it’s important to use an “aesthetic and minimalist design” because: 
+A. a pleasing design can increase brand awareness, which can increase sales 
+B. reducing clutter and organizing information makes it easier for people to find what they are looking for 
+C. a simpler design is more cost-effective to develop and maintain 
+D. an ugly design will provoke users to make errors on purpose, as a form of protest Answer: B
+
+
+Mooc1_Quiz5 Q10: Nielsen provides several recommendations for help and documentation. Which of the following is not one of his recommendations? 
+A. help should be focused on users’ tasks 
+B. help should be small and searchable 
+C. help should include step-by-step instructions 
+D. help should be written from the system developers’ point of view Answer: D
+
+
+Mooc2_Quiz1 Q1: Which of the following is NOT a reason to conduct a user needs assessment? 
+A. To understand why a user would want to use a product or service at all. 
+B. To test whether one version of a product or service is better than another. 
+C. To learn how users actually use a product or service. 
+D. To see what problems users have when using a product or service. Answer: B
+
+
+Mooc2_Quiz1 Q2: At what point in a product or service's life-cycle should one conduct a user needs assessment? I. Before designing a new product or service. II. Before considering a re-design of an existing product or service. III. Just before releasing a new product or service that has already been designed. 
+A. I only 
+B. II only 
+C. I and II 
+D. II and III Answer: C
+
+
+Mooc2_Quiz1 Q3: Which of the following steps will you be learning about in this user needs assessment course? I. Preparing for and conducting interviews. II. Observing users using a product or service. III. Analyzing qualitative data to arrive at insights. 
+A. I and II 
+B. I and III 
+C. II and III 
+D. I, II, and III Answer: D
+
+
+Mooc2_Quiz1 Q4: Which of the following tasks is most representative of the kind of work involved in qualitative research? 
+A. Conducting interviews about how people use Excel  spreadsheets 
+B. Analyzing statistical data about visits to Amazon 
+C. Writing software to classify user posts on Facebook 
+D. Running an experimental trial to see if users like Google with banner ads Answer: A
+
+
+Mooc2_Quiz1 Q5: Which of the following describes potential relationships between qualitative and quantitative research? I. Qualitative research generates hypotheses that can be verified with quantitative research. II. Qualitative research offers potential explanations for outcomes from quantitative research. III. Qualitative research tends to provide close-up, in-depth description while quantitative research tends to provide aggregate, large-scale description. 
+A. I and II 
+B. I and III 
+C. II and III 
+D. I, II, and III Answer: D
+
+
+Mooc2_Quiz1 Q6: Which of the following questions is best answered by a qualitative research methodology? 
+A. What proportion of Gadget X users love Feature Y? 
+B. What are the different ways in which Gadget X frustrates its users? 
+C. How will total revenue change if Gadget X's price is reduced by 10%? 
+D. Does Gadget X tend to increase traffic accidents among its users? Answer: B
+
+
+Mooc2_Quiz1 Q7: For the purposes of this course, which of the following is the best-scoped question for a small user needs assessment project? 
+A. What kinds of problems do users face when using Microsoft Word's spell-checking feature? 
+B. What kinds of problems do users face when using Microsoft products? 
+C. What kinds of problems do users face when using Microsoft Word? 
+D. What kinds of problems do users face when fixing a spelling error identified by Microsoft Word's spell-checking feature? Answer: A
+
+
+Mooc2_Quiz1 Q8: For the purposes of this course, which of the following is the best-scoped question for a small user needs assessment project? 
+A. How could the "on/off" switch of the device you are using be better designed to accommodate users? 
+B. How could the local grocery store be designed better to accommodate customers? 
+C. How could the city/town/village you live in be designed better to accommodate residents? 
+D. How could the customer queue at the local post office be designed better to accommodate customers? Answer: D
+
+
+Mooc2_Quiz1 Q9: For the purposes of this course, which of the following is the best-scoped question for a small user needs assessment project? 
+A. How do users feel about MOOCs (massive open online courses)? 
+B. How do users feel about the interface for this particular question in this quiz? 
+C. How do users feel about websites in general? 
+D. How do users feel about Coursera’s interface for quizzes? Answer: D
+
+
+Mooc2_Quiz1 Q10: For the purposes of this course, which of the following is the best-scoped question for a small user needs assessment project? 
+A. How can the world economy be improved for human beings? 
+B. What do people who take this course want out of it? 
+C. How could the solar system be better designed for alien visitors? 
+D. What do sentient beings expect from the universe? Answer: B
+
+
+Mooc2_Quiz2 Q1: What kind of interviews are you learning about in this course? 
+A. Group, remote, semi-structured. 
+B. Individual, remote, structured. 
+C. Individual, in-person, semi-structured. 
+D. Group, in-person, unstructured. Answer: C
+
+
+Mooc2_Quiz2 Q2: Which of the following should you aim for when arranging interviews? I. The participant should be a user or potential user of the product or service. II. The interview should be held where the product or service would normally be used. III. The time should be when the product or service would normally be used. 
+A. I and II 
+B. I and III 
+C. II and III 
+D. I, II and III Answer: D
+
+
+Mooc2_Quiz2 Q3: What is one quality that distinguishes a semi-structured interview from other kinds of interviews? 
+A. Half of the interview will be a questionnaire, the other half will be open-ended. 
+B. Half of the interview will be a questionnaire, the other half will be based on an interview protocol. 
+C. While the interviewer uses an interview protocol as a guideline, the interview itself will often go off-script. 
+D. The interviewer and the interview participant should each expect to speak about half of the time. Answer: C
+
+
+Mooc2_Quiz2 Q4: What is the value of having an overarching question in an interview protocol? 
+A. It provides a focus for the interview that the interviewer keeps in mind throughout the interview. 
+B. It serves as a catch-all question to ask at the end of an interview. 
+C. It is a good opening question to ask during the interview. 
+D. It is a good way to elicit a summary of the interview participant’s thoughts. Answer: A
+
+
+Mooc2_Quiz2 Q5: Which of the following topics are not a common part of the introduction to an interview? 
+A. How confidentiality will be handled 
+B. Expected duration of the interview 
+C. How many other interview participants there are 
+D. Overall goals of the interview Answer: C
+
+
+Mooc2_Quiz2 Q6: Which of the following is a good open-ended question to ask in a semi-structured interview? 
+A. How many times a week do you use a GPS device recently? 
+B. Can you tell me about the most recent time when you used a GPS device? 
+C. Was the GPS interface poorly designed? 
+D. Why didn’t you use the landmark feature on your GPS device? Answer: B
+
+
+Mooc2_Quiz2 Q7: Once you have a list of core questions to ask, what should you do next in constructing the interview protocol? I. Cluster related questions together. II. Try the questions on a potential subject. III. Add follow-up questions. 
+A. I and II 
+B. I and III 
+C. II and III 
+D. I, II and III Answer: B
+
+
+Mooc2_Quiz2 Q8: Which of the following is a bad question to ask during a user needs assessment interview? 
+A. Could you tell me about a recent time when you used the “undo” feature? 
+B. Tell me more -- what was the context when you used the “undo” feature? 
+C. What functionality would you have liked to have to complete the task? 
+D. Was it because you didn’t know about the “undo” feature that you were unable to complete the task? Answer: D
+
+
+Mooc2_Quiz2 Q9: In a semi-structured interview, why would you want to avoid a question such as “Was it because you didn’t know about the ‘undo’ feature that you were unable to complete the task?” I. It is leading -- you are feeding a possible answer to the participant. II. It is closed-ended -- this is a yes-or-no question. III. It is judgmental -- you are suggesting that the participant’s lack of knowledge was a problem. 
+A. I and II 
+B. I and III 
+C. II and III 
+D. I, II and III Answer: D
+
+
+Mooc2_Quiz2 Q10: Which of the following are good guidelines for using an interview protocol? I. Memorize the protocol, so that you don’t have to refer to it that much during the interview itself. II. Avoid asking any questions that are not open-ended. III. Ask the questions exactly as they are written and in the order they are written. 
+A. I only 
+B. II only 
+C. III only 
+D. I and III Answer: A
+
+
+Mooc2_Quiz2_Practice Q1: You'll now have the opportunity to practice grading a sample interview protocol. Assign the learner the grade you feel they deserve for the criteria. Keep trying until you are able to grade the submission the same way it would have been scored by the instructor: Grade this Interview Protocol: What do users of Facebook find useful or frustrating about the way its privacy setting options work? Criteria : Number and Quality (Is the number and quality of the overarching questions appropriate?) 
+A. Not Serious (There was no attempt to provide a serious overarching question.) 
+B. Needs Work (There are three or more overarching questions, each substantially different from the others.) 
+C. Fair (There are exactly one or two overarching questions, but the questions do not seem well-suited to the mini-project.) 
+D. Very Good (There are exactly one or two overarching questions, and they seem appropriate for the mini-project.) Answer: C
+
+
+Mooc3_Quiz1 Q1: Your client wants you to conduct a user test of their pre-release prototype to find the most important user interface problems to be fixed before the product is released. What kind of user test is your client asking you to perform? 
+A. Summative 
+B. Formative 
+C. Competitive 
+D. A/B Answer: B
+
+
+Mooc3_Quiz1 Q2: You are working on assessing the usability of a medical device. For regulatory reasons, you need to demonstrate that 99% of medical professionals can perform a certain task in under one minute. What kind of user test should you perform? 
+A. Comparative 
+B. Formative 
+C. Benchmark 
+D. Microusability Answer: C
+
+
+Mooc3_Quiz1 Q3: Which of the following data types is typically not collected in a user test? 
+A. Task completion 
+B. Task timing 
+C. Critical incidents 
+D. Expected purchase price Answer: D
+
+
+Mooc3_Quiz1 Q4: Critical incidents and verbal reports are both examples of what kind of user testing data? 
+A. Quantitative 
+B. Qualitative 
+C. Insignificant 
+D. Performance Answer: B
+
+
+Mooc3_Quiz1 Q5: Which of the following is typically not true of user testing? 
+A. You should not know who the test participants are, and they should not know who you are. 
+B. You should observe test participants using the system directly. 
+C. You should recruit test participants who are representative of your target users. 
+D. You should give test participants specific tasks to carry out using the system. Answer: A
+
+
+Mooc3_Quiz1 Q6: What is a key benefit of collecting qualitative data during user testing? 
+A. It helps you “prove” statistically that the system being studied is better than competitors’ 
+B. It doesn’t require any analysis, so it saves time compared to other types of data 
+C. It helps you understand why test participants had difficulties when using the system 
+D. It allows you to assess the overall quality of the system being tested Answer: C
+
+
+Mooc3_Quiz1 Q7: Which of the following is not an example of a subjective measure that might be collected during a user test? 
+A. Perceived usability 
+B. Perceived usefulness 
+C. Desirability 
+D. Task completion speed Answer: D
+
+
+Mooc3_Quiz1 Q8: Which of the following data types is arguably the most important to capture when conducting a formative, problem-finding user test? 
+A. Critical incidents 
+B. Perceived usability 
+C. Suggested improvements 
+D. Participant demographics Answer: A
+
+
+Mooc3_Quiz1 Q9: When using questionnaires to collect characteristic, behavioral, and attitudinal data about your test participants, it is best to: 
+A. Ask all the questions you can think of, because you never know what will be useful. 
+B. Ask no questions, because it will distract from the test and annoy your participants. 
+C. Focus on collecting data that could help explain differences in task outcomes. 
+D. Focus on getting users to rate the quality of your system on a five-point scale. Answer: C
+
+
+Mooc3_Quiz1 Q10: What is user testing particularly well suited to tell you? 
+A. How many people will buy your product. 
+B. Users’ most critical unmet needs. 
+C. Whether users can successfully perform the tasks that you designed the system to support. 
+D. What users will do with the system once they have it in their own hands. Answer: C
+
+
+Mooc3_Quiz2 Q1: Clear “tests” that determine whether someone is “in” or “out” of the target population for a user test are: 
+A. Recruiting criteria 
+B. Diversity criteria 
+C. User tests 
+D. Tasks Answer: A
+
+
+Mooc3_Quiz2 Q2: Factors that capture the ways in which you expect your users to differ can be expressed as: 
+A. Recruiting criteria 
+B. Diversity criteria 
+C. Success criteria 
+D. Tasks Answer: B
+
+
+Mooc3_Quiz2 Q3: Imagine a new shopping website named Nomaza.com. Nomaza.com offers a wide range of products. Which of the following might be a reasonable goal for a Nomaza.com user test? (choose all that apply) 
+A. Can experienced online shoppers use Nomaza.com to find and purchase household items? 
+B. How likely are first-time users of Nomaza.com to return for a second visit? 
+C. Are novice Internet shoppers able to complete the checkout process on Nomaza.com? 
+D. Can people find stuff they want on Nomaza.com? Answer: A, C
+
+
+Mooc3_Quiz2 Q4: Which type of recruiting criteria would the following question screen for? "In the past week, how many hours did you spend completing coursework on edX? 0, 1-2, 3-5, or more than 5" 
+A. Expertise 
+B. Behavioral 
+C. Characteristic 
+D. Attitudinal Answer: B
+
+
+Mooc3_Quiz2 Q5: Which of the following is not one of the qualities of well-design tasks for use in a user test? 
+A. Realistic 
+B. Verifiable 
+C. Doesn’t “lead the witness” 
+D. Leaves room for different users’ interpretation Answer: D
+
+
+Mooc3_Quiz2 Q6: What is the problem with the following task description? “Go to coursera.org. Hover over the button “Explore”, then click "Explore all of Coursera". Scroll until you find the link to “User Experience (UX) Research and Design” Specialization. Click on it. On the resulting page, find the first course and enroll in it.” 
+A. It is not realistic 
+B. It is not verifiable 
+C. It “leads the witness" 
+D. It is not the most efficient way of enrolling in a Coursera course Answer: C
+
+
+Mooc3_Quiz2 Q7: What is the problem with the following task description? “Go to coursera.org and find a course that looks interesting to you. Find out more about it." 
+A. It is not realistic 
+B. It is not verifiable 
+C. It “leads the witness" 
+D. It is not the most efficient way of learning about a Coursera course Answer: B
+
+
+Mooc3_Quiz2 Q8: When designing the set of tasks you will use in a test, it’s a good idea to: 
+A. Order them from hardest to easiest, to get the hard stuff out of the way. 
+B. Order them from easiest to hardest, so that your participants feel more comfortable. 
+C. Ask individual participants to perform several very similar tasks one after another, to ensure that they perform consistently. 
+D. Exhaustively test every possible path a user could take through the interface, even if it means testing with dozens of users. Answer: B
+
+
+Mooc3_Quiz2 Q9: In user testing, we generally ask test participants to verbalize what they are thinking as they perform tasks. This approach is called: 
+A. Debriefing 
+B. The Think-Aloud Protocol 
+C. What You See Is What You Get 
+D. Screening Answer: B
+
+
+Mooc3_Quiz2 Q10: You are testing the Nomaza.com website. All of your test participants will be using the same computer, which is located in your user testing lab. Which of the following is not something you ought to worry about when preparing for each test session? 
+A. making sure the browser cache is cleared so that later users don’t see which links have been visited 
+B. clearing out data that was created by earlier users so that all participants see the same starting conditions 
+C. testing participants’ laptops to make sure their default browser is capable of displaying Nomaza.com 
+D. giving all participants the same account capabilities and payment method in order to ensure consistency Answer: C
+
+
+Mooc3_Quiz3 Q1: Which of the following is an example of a good use of a post-test questionnaire? 
+A. Asking open-ended questions where participants can give any answer that comes to mind 
+B. Asking follow-up questions to understand why participants gave answers that they did 
+C. Obtaining quantified measures of participants subjective reactions to using a system 
+D. Measuring the time it takes participants to complete a task Answer: C
+
+
+Mooc3_Quiz3 Q2: Which of the following is not true about standardized usability questionnaires like QUIS and PSSUQ? 
+A. The level of reliability is known, allowing you to assess how consistent they are across systems and study participants 
+B. Most of them have been used in many studies, allowing comparisons across systems 
+C. Some of them allow you to “plug in” different questionnaire sections to ask about specific usability issues 
+D. They are so expensive that they are only used in the biggest, most well-funded projects Answer: D
+
+
+Mooc3_Quiz3 Q3: What does the System Usability Scale measure? 
+A. Perceived usability 
+B. Number of tasks successfully completed 
+C. Frequency of errors 
+D. Number of usability principles violated Answer: A
+
+
+Mooc3_Quiz3 Q4: Which of the following would you typically not include in a debrief interview? 
+A. Review of problems encountered during tasks 
+B. General questions about perceived usefulness and comparisons to similar systems 
+C. Demographic questions like age, gender, and education level 
+D. A “wrap-up” question in which you ask participants for any additional thoughts that weren’t covered already Answer: C
+
+
+Mooc3_Quiz3 Q5: What does the concept of “demand characteristics” warn us about when applied to user testing? 
+A. Participants will perform differently when observed than they would if they were on their own 
+B. Participants are likely to tell us what they think we want to hear 
+C. Participants who receive monetary compensation will typically perform better on tasks than those who don’t 
+D. Researchers shouldn’t ask participants to do anything in particular, rather they should let participants decide what to do Answer: B
+
+
+Mooc3_Quiz3 Q6: What can UX researchers do to minimize the impact of confirmation bias? 
+A. Wherever possible, have user tests conducted by neutral third parties who have no investment in the outcome of the test 
+B. Recruit only family and friends as participants, since they will be more honest about their feelings 
+C. Researchers should trust their intuition when analyzing test results, rather than seeking to be systematic and impartial 
+D. Ask participants the same questions at least 3 times, in order to confirm that the answers accurately reflect their feelings Answer: A
+
+
+Mooc3_Quiz3 Q7: Which of the following best describes the role of a participant in a user test? 
+A. They are being evaluated to see if they are competent enough to use the system tested 
+B. Once they have agreed to participate, they are obligated to complete all tasks and answer all questions, regardless of their discomfort 
+C. They are partners with the researchers administering the test, working with together to find flaws in the system design 
+D. They should remain ignorant of the goals of the test, so that they can offer more creative feedback and design suggestions Answer: C
+
+
+Mooc3_Quiz3 Q8: A basic ethical principle of research involving human subjects that states that researchers need to confirm that participants in a study know the purpose of the study, what they will be asked to do, their right to withdraw or refuse to comply with aspects of the study, and what will be done with the data is ____________. 
+A. Usability 
+B. Perceived usefulness 
+C. Acquiescence 
+D. Informed Consent Answer: D
+
+
+Mooc3_Quiz3 Q9: Why is it important to ask participants to announce when they believe they are done with a task? 
+A. Otherwise there is no way to know if they’ve finished 
+B. Allowing the moderator to declare a task “done” could give the participant more information than they would have if conducting the task outside the test environment 
+C. Saying “I’m done”  gives the participant a sense of accomplishment 
+D. It allows the moderator to pay less attention to the current task and start to prepare for the next one Answer: B
+
+
+Mooc3_Quiz3 Q10: Is the following statement true or false? You should always include a pre-test questionnaire in any user test you conduct. 
+A. True 
+B. False Answer: B
+
+
+Mooc3_Quiz4 Q1: All of the following are important to do when observing a user testing session, except for: 
+A. Capture recordings of the user’s screen 
+B. Capture audio recordings of the user thinking aloud 
+C. Notify participants as soon as they have met each task’s success criteria 
+D. Use a logging sheet to capture when critical incidents occur Answer: C
+
+
+Mooc3_Quiz4 Q2: When choosing an environment to conduct a user test session, which of the following is not an important characteristic of your chosen site? 
+A. Distraction-free 
+B. Private 
+C. Dedicated only for conducting user tests 
+D. Quiet Answer: C
+
+
+Mooc3_Quiz4 Q3: Which of the following would be a good reason for using a high-end usability testing lab with separate control and observation room? 
+A. You will be providing a computer for participants to use during the test 
+B. You will be using the think-aloud protocol 
+C. You plan to administer a post-test questionnaire 
+D. You plan to invite multiple stakeholders to observe the test sessions Answer: D
+
+
+Mooc3_Quiz4 Q4: The person who greets participants and communicates with them throughout a user test session is called the: 
+A. Logger 
+B. Moderator 
+C. Interviewer 
+D. Technician Answer: B
+
+
+Mooc3_Quiz4 Q5: About how many “key findings” should be included in a typical user test report? 
+A. 1 
+B. 2-3 
+C. 5-10 
+D. 20-50 Answer: C
+
+
+Mooc3_Quiz4 Q6: When reporting an issue found through user testing you should report all of the following except: 
+A. Recommendation 
+B. Severity 
+C. Evidence 
+D. Clear description of the problem 
+E. The names of the participants who encountered them Answer: E
+
+
+Mooc3_Quiz4 Q7: When making a recommendation for how to address a problem, you should consider all of the following except : 
+A. Identifying best practices from competitors’ products 
+B. Declining to provide a recommendation, admitting you have no good ideas 
+C. Suggesting further research to better characterize the problem 
+D. Recommending an iterative design process to find the best solution Answer: B
+
+
+Mooc3_Quiz4 Q8: True or False: Baseline statistics such as task completion rate, time spent on task, and/or error rates should be included in user test reports. 
+A. True 
+B. False Answer: A
+
+
+Mooc3_Quiz4 Q9: True or False: It is not the role of the UX researcher to assign severity to problems found in user testing--this should be left up to the product owner. 
+A. True 
+B. False Answer: B
+
+
+Mooc3_Quiz4 Q10: True or False: If you take good notes, there is no reason to capture a screen recording of user test sessions for later review. 
+A. True 
+B. False Answer: B
+
+
+Mooc4_Quiz1 Q1: Which of the following is not a key design skill? 
+A. To frame or reframe a design problem 
+B. To generate a large number of alternative solutions 
+C. To evaluate tradeoffs of different alternatives 
+D. To create and test with potential users a functioning prototype of a design solution 
+E. To write a business plan for selling the technology designers created Answer: E
+
+
+Mooc4_Quiz1 Q2: The primary concern of design is to create artifacts and systems that are aesthetically pleasing. 
+A. True 
+B. False Answer: B
+
+
+Mooc4_Quiz1 Q3: Bill Buxton states that all design is “compromise.” By this he means that fundamentally no design is particularly good. 
+A. True 
+B. False Answer: B
+
+
+Mooc4_Quiz1 Q4: The design process is highly iterative. Which of the following are iterative loops that a designer might do in the course of a project? 
+A. From ideation to problem framing 
+B. From creation of scenarios and storyboards to ideation 
+C. From creation of scenarios and storyboards to problem framing 
+D. From prototyping to ideation 
+E. All of the above 
+F. None of the above Answer: E
+
+
+Mooc4_Quiz1 Q5: Designers usually solve the exact design problem they are initially presented with. 
+A. True 
+B. False Answer: B
+
+
+Mooc4_Quiz1 Q6: Designers often refer to the notion of the “design space.” What does this term refer to? 
+A. Physical space (like a design studio) where design activities take place 
+B. Space into which the design has to fit (e.g., the size of the screen of a mobile phone) 
+C. Properties of the space (e.g., location, shape of the room) where the design will be used 
+D. The range of alternative ways that a design solution can work Answer: D
+
+
+Mooc4_Quiz1 Q7: Problem scoping is a fundamental part of the design process. 
+A. True 
+B. False Answer: A
+
+
+Mooc4_Quiz1 Q8: Designers conduct formative research using a single, unified set of methods. 
+A. True 
+B. False Answer: B
+
+
+Mooc4_Quiz1 Q9: Formal research methods are always preferable to informal methods for doing formative research. 
+A. True 
+B. False Answer: B
+
+
+Mooc4_Quiz1 Q10: Which of the following are research methods that can be applied in formative research? 
+A. Interviews 
+B. Observations 
+C. Asking friends and family members about their experiences 
+D. Participatory design groups 
+E. All of the above 
+F. None of the above Answer: E
+
+
+Mooc4_Quiz4 Q1: Although there are different types of input, UX designers only need to focus on designing the information that users will explicitly enter into the system. 
+A. True 
+B. False Answer: B
+
+
+Mooc4_Quiz4 Q2: Which of the following are types of user-entered inputs? 
+A. GPS 
+B. Text fields where users enter free-form responses 
+C. Widgets like calendar pickers or on/off switches 
+D. Voice input, like dictation typing 
+E. All options on this list except GPS Answer: E
+
+
+Mooc4_Quiz4 Q3: Which of the following is not a type of passive input? 
+A. Application data like contacts, calendar events, or user’s health information (e.g., steps) 
+B. Weather data 
+C. Picture taken by the user using the phone camera 
+D. User’s current location Answer: C
+
+
+Mooc4_Quiz4 Q4: Granularity of the needed information is an important consideration when designing system inputs. 
+A. True 
+B. False Answer: A
+
+
+Mooc4_Quiz4 Q5: Which is not an output modality commonly used in today’s interactive applications? 
+A. Audio 
+B. Visual 
+C. Olfactory 
+D. Tactile/Haptic Answer: C
+
+
+Mooc4_Quiz4 Q6: What does the designer need to know in order to design effective output? 
+A. What information the user needs to accomplish the task 
+B. Context in which the information will be accessed 
+C. User’s knowledge base 
+D. All of the above Answer: D
+
+
+Mooc4_Quiz4 Q7: “Pull” output gives user high level of control of information access. 
+A. True 
+B. False Answer: A
+
+
+Mooc4_Quiz4 Q8: “Push” output can time information delivery for maximum effectiveness. 
+A. True 
+B. False Answer: A
+
+
+Mooc4_Quiz4 Q9: Which of the following represents the system’s state: 
+A. Information about the user’s current location 
+B. User profile information 
+C. Rules for providing feedback to the user 
+D. Current values of all system inputs and variables, and rules for operating on those values Answer: D
+
+
+Mooc4_Quiz4 Q10: Mode can change how multiple aspects of the system behave. 
+A. True 
+B. False Answer: A
+
+
+Mooc4_Quiz5 Q1: Designers prototype to test their design ideas before resources are invested in expensive and time-consuming software development. 
+A. True 
+B. False Answer: A
+
+
+Mooc4_Quiz5 Q2: Which of the following can prototypes help designers test? 
+A. The overall design concept 
+B. Functionality of different components of the system 
+C. Screen layouts 
+D. User interactions 
+E. All of the above Answer: E
+
+
+Mooc4_Quiz5 Q3: It doesn’t matter whether you initially create a low- or high-fidelity prototype. You can get the same kind of feedback on either. 
+A. True 
+B. False Answer: B
+
+
+Mooc4_Quiz5 Q4: Which of the following is not a question that can be answered by getting feedback on wireframes? 
+A. Do screens contain the right functional components? 
+B. Does the screen layout make sense? 
+C. Is the displayed content ordered correctly? 
+D. Do the screens provide adequate navigation? Answer: C
+
+
+Mooc4_Quiz5 Q5: Wireframes can test design concepts, as well as help designers decide among multiple ways of designing a piece of functionality. 
+A. True 
+B. False Answer: A
+
+
+Mooc4_Quiz5 Q6: It’s possible to create a useful, functional interactive prototype with very simple tools, such as paper, post-it notes, and scotch tape. 
+A. True 
+B. False Answer: A
+
+
+Mooc4_Quiz5 Q7: Which of the following is not a characteristic of low-fidelity prototypes? 
+A. They should be quick to create 
+B. They should support the full sequence of actions needed to complete a task 
+C. They should be realistic 
+D. They should cover the functionality of the whole system. Answer: D
+
+
+Mooc4_Quiz5 Q8: A single designer can usually conduct a test of a lo-fi prototype by him/herself. 
+A. True 
+B. False Answer: B
+
+
+Mooc4_Quiz5 Q9: Which of the following is not a characteristic of hi-fi prototypes? 
+A. They are more resource-intensive to develop 
+B. They can be run by the tester without help 
+C. They are of limited usefulness for testing usability 
+D. They can be used as a part of the spec given to developers Answer: C
+
+
+Mooc4_Quiz5 Q10: Wizard of Oz prototypes are most useful for prototyping screen-based applications 
+A. True 
+B. False Answer: B
+
+
+Mooc4_Quiz6 Q1: Affordances of user interface don’t have much influence on how easily users learn to use the system. 
+A. True 
+B. False Answer: B
+
+
+Mooc4_Quiz6 Q2: In order to have a mental model of a system that enable them to use that system effectively, users need to understand the technical underpinnings of that system. 
+A. True 
+B. False Answer: B
+
+
+Mooc4_Quiz6 Q3: Gulf of execution refers to which of the following? 
+A. The time it takes an application to execute some computationally-intensive task, such as running a statistical model. 
+B. The difference between the output the system provided and the output the user wanted. 
+C. The discrepancy between what the user is trying to do and what he/she is able to do using the system’s interface. 
+D. The time between when the user gives the system a command and when the system executes that command (e.g., the delay in responding to a button press) Answer: C
+
+
+Mooc4_Quiz6 Q4: Gulf of evaluation refers to which of the following? 
+A. The user’s ability to understand the system’s output (e.g., the graphs that the system presents the user) 
+B. The ability of the user to tell if the system did what the user was trying to do. 
+C. The user’s ability to evaluate if the system is a good match for his/her needs. 
+D. The difference between user ratings of an app in the app store and the actual quality of the app. Answer: B
+
+
+Mooc4_Quiz6 Q5: While designers have to set defaults for many design elements, these default values rarely matter since users can just change them at any time. 
+A. True 
+B. False Answer: B
+
+
+Mooc4_Quiz6 Q6: Designing thoughtful defaults is important for several reasons. Which of the following is not a reason for designing good defaults. 
+A. Defaults define out-of-the-box experience 
+B. Defaults are easily changed. 
+C. Defaults decrease onboarding time 
+D. Defaults can have large consequences. Answer: B
+
+
+Mooc4_Quiz6 Q7: Which position on the social effects of technology claims that technological adoption is primarily governed by the needs of different social groups and that it has little to do with the properties of the actual technology? 
+A. Social determinists 
+B. Technical determinists 
+C. Interactionists Answer: A
+
+
+Mooc4_Quiz6 Q8: Technical determinists believe that sometimes the properties of technologies almost necessitates certain kinds of consequences. 
+A. True 
+B. False Answer: A
+
+
+Mooc4_Quiz6 Q9: Which new technological trend is not requiring designers to change how they prototype and test their systems? 
+A. Proliferation of screens (smart watches, embedded displays, etc.) for which designers need to design user experiences 
+B. Instrumented environments 
+C. Artificial Intelligence-based systems 
+D. Virtual and augmented reality 
+E. None of the above Answer: E
+
+
+Mooc4_Quiz6 Q10: The many new technological trends we discussed means that UX design as a process is fundamentally changing and that what we discussed in this course is not going to be useful a year or two from now. 
+A. True 
+B. False Answer: B
+
+
+Mooc5_Quiz1 Q1: Which of the following is a STRENGTH of surveys as a UX method? 
+A. Measuring Behaviors 
+B. Understanding *why* people do things 
+C. Describing Opinions of a Group of People 
+D. Conducting Exploratory Work Answer: C
+
+
+Mooc5_Quiz1 Q2: Which of the following is NOT a way to match your UX goals to survey methods? 
+A. Launch an exploratory survey to determine UX goals. 
+B. Ask why you want to have the data. 
+C. Have a story for why surveys are the best way to meet this UX goal. 
+D. Define goals before choosing metrics. Answer: A
+
+
+Mooc5_Quiz1 Q3: This term describes the total set of people you want to be able to represent with your survey. 
+A. Sample 
+B. Response Rate 
+C. Respondents 
+D. Population Answer: D
+
+
+Mooc5_Quiz1 Q4: What term is used to describe the actual questions you ask people? 
+A. Respondent 
+B. Instrument 
+C. Frame 
+D. Population Answer: B
+
+
+Mooc5_Quiz1 Q5: Which of the following is the most accurate statement? 
+A. Error can be reduced by designing surveys as well as well as possible within resource constraints. 
+B. Error should be reduced to zero before launching a survey. 
+C. It’s impossible to affect error one way or another. 
+D. Surveys should never be trusted because of how much error they involve. Answer: A
+
+
+Mooc5_Quiz1 Q6: This is error that is introduced when your questions somehow don't actually get to the concept you're interested in. 
+A. Coverage Error 
+B. Sampling Error 
+C. Measurement error 
+D. Nonresponse Error Answer: C
+
+
+Mooc5_Quiz1 Q7: This is the error that is introduced because some portion of the population is refusing to answer your questions. 
+A. Coverage error 
+B. Nonresponse error 
+C. Sampling error 
+D. Measurement error Answer: B
+
+
+Mooc5_Quiz1 Q8: This is the error that is introduced because the way you are asking questions is going to miss some big chunk of your population of interest. 
+A. Measurement error 
+B. Nonresponse error 
+C. Sampling frame 
+D. Sampling error Answer: D
+
+
+Mooc5_Quiz1 Q9: Which of the following is most accurate? 
+A. Surveys are good at broad descriptions of groups, but not at precise measurements. 
+B. Surveys have largely been abandoned in modern research because they are so inaccurate. 
+C. Surveys should never be combined with other types of methods. 
+D. Surveys are good at measuring behavioral outcomes. Answer: A
+
+
+Mooc5_Quiz1 Q10: Which of the following is NOT a type of sampling? 
+A. Census 
+B. Sampling Frame 
+C. Probability 
+D. Convenience Answer: B
+
+
+Mooc5_Quiz3 Q1: Which of the following is the most true statement? 
+A. It’s better to get a low response rate from a small  sample than it is to get a high response rate from a big sample. 
+B. Response rates are only important for national, probability studies. 
+C. Response rates are not connected to survey quality. 
+D. It’s better to get a high response rate from a small sample than a low response rate from a big sample. Answer: D
+
+
+Mooc5_Quiz3 Q2: Which of the following is NOT a reason you would want to have a high response rate? 
+A. If you want to be more confident that you’ve detected a difference/change. 
+B. If your population is very heterogeneous. 
+C. If you want to be able to conduct more complicated statistical analyses. 
+D. If you want to detect smaller, or more subtle differences/changes. Answer: C
+
+
+Mooc5_Quiz3 Q3: Which of the following is the most true about social exchange theory? 
+A. People consider the economic value to themselves of any given social exchange. 
+B. People think about the risk to themselves primarily in considering social exchanges. 
+C. People are really bad at guessing the cost/benefit of any given social exchange. 
+D. People use trust as a basis to make a cost/benefit guess on the value of a social exchange. Answer: D
+
+
+Mooc5_Quiz3 Q4: Which of the following is NOT a way to increase the perceived benefit of participating in a survey? 
+A. Specify how the survey results will be used 
+B. Identify the trustworthiness of the sponsoring organization 
+C. Make the survey as short as possible 
+D. Stress that opportunities to respond are limited Answer: C
+
+
+Mooc5_Quiz3 Q5: Which of the following is  LEAST  true  about extrinsic, or material, incentives? 
+A. You should frame incentives as gifts, not as payment. 
+B. Incentives given *before* the survey are more effective. 
+C. The more money you offer, the more likely people are to participate. 
+D. Lotteries (a chance to win a larger reward) are not very effective as incentives. Answer: C
+
+
+Mooc5_Quiz3 Q6: Which of the following is NOT a way of reducing the burden for a respondent to participate in your survey? 
+A. Asking people who use a site’s shopping cart how they feel about that experience. 
+B. Keep the survey as short as you can without compromising quality. 
+C. Reduce the complexity of questions by making them easy to understand. 
+D. Asking one group of respondents to forward the survey invite to their social networks. Answer: A
+
+
+Mooc5_Quiz3 Q7: Which of the following best describes why you might choose to use a panel for recruiting respondents? 
+A. To make sure you get people who are experienced in answering surveys 
+B. To reduce recruitment costs 
+C. To increase quality 
+D. To avoid having a convenience sample Answer: B
+
+
+Mooc5_Quiz3 Q8: Which of the following is NOT something to think about if you are going to use Amazon’s Mechanical Turk to recruit respondents? 
+A. How to pay a fair wage to Turkers 
+B. Response rates for Turkers 
+C. The shakiness of the demographic data about Turkers 
+D. How to check for the validity of responses Answer: B
+
+
+Mooc5_Quiz3 Q9: Which of the following best describes the social desirability outcomes in interview-led survey modes? 
+A. Results can be biased because people want to be agreeable with an interviewer. 
+B. Results can be biased because interviewers will avoid questions that could be embarrassing. 
+C. Results can be biased because some interviewers are more able to get people to do surveys. 
+D. Results can be biased because people semi-consciously will try to look acceptable to the interviewer. Answer: D
+
+
+Mooc5_Quiz3 Q10: Which of the following is NOT a dimension of survey modes? 
+A. Cost 
+B. Respondent burden 
+C. Sampling frame 
+D. Flexibility Answer: C
+
+
+Mooc5_Quiz4.2 Q1: What is the main problem with the following survey question? “How likely are you to participate in an online course in the future?” [Very likely] [Somewhat likely] [Neutral] [Somewhat unlikely] [Very unlikely] 
+A. The response categories don’t match the question stem. 
+B. The question stem doesn’t include both poles of the scale. 
+C. This should be framed as a unipolar scale. 
+D. There’s nothing wrong with this question. Answer: B
+
+
+Mooc5_Quiz4.2 Q2: Which of the following is NOT a best practice for writing open-ended questions? 
+A. Use an open-ended question after every closed-ended question. 
+B. Use neutral probes when possible. 
+C. Provide extra motivation to respond. 
+D. Specify the response wanted in the question stem. Answer: A
+
+
+Mooc5_Quiz4.2 Q3: Which of the following is the LEAST true statement about open-ended questions? 
+A. Responses require effort for coding and analysis. 
+B. Respondents are more likely to skip open-ended questions. 
+C. They can require more data cleaning. 
+D. They provide bad data because responses are not standardized. Answer: D
+
+
+Mooc5_Quiz4.2 Q4: Which of the following statement about open-ended questions is most FALSE? 
+A. They allow respondents to answer without limiting the range of responses. 
+B. They are more frequently skipped than other types of questions. 
+C. They are the easiest type of question to analyze. 
+D. They are often used when we haven’t pre-defined response categories. Answer: C
+
+
+Mooc5_Quiz4.2 Q5: Which of the following is MOST true about offering a “Don’t Know” option in your response categories? 
+A. Research shows people don’t choose the “Don’t Know” option when it’s offered. 
+B. You should always include a “Don’t Know” option in your written surveys. 
+C. It’s best to do when the question asks for recall, not when asking for opinions. 
+D. The “Don’t Know” option should only be used for opinion questions. Answer: C
+
+
+Mooc5_Quiz4.2 Q6: Which of the following is NOT an uncommon type of survey question? 
+A. Drill Down 
+B. Nominal 
+C. Heat Map 
+D. Pick, Group and Rank Answer: B
+
+
+Mooc5_Quiz4.2 Q7: Which of the following is NOT a reason to randomize your response categories in a nominal survey question? 
+A. Anchoring 
+B. Primacy 
+C. Recency 
+D. Cognitive burden Answer: D
+
+
+Mooc5_Quiz4.2 Q8: Which of the following is NOT a best practice in writing nominal closed-ended questions? 
+A. Avoid unequal response options 
+B. Use “select all that apply” responses rather than forced choices. 
+C. Constrain the number of response options that you provide 
+D. Randomize response options when necessary Answer: B
+
+
+Mooc5_Quiz4.2 Q9: What is the main problem with the “Agree/Disagree” response scale? 
+A. Overly familiar to respondents, leading to satisficing 
+B. Leads to acquiescence bias 
+C. Cognitively burdensome 
+D. Not understood by most respondents Answer: B
+
+
+Mooc5_Quiz4.2 Q10: Which of the following is NOT a best practice when designing ordinal closed-ended questions? 
+A. Use direct labels 
+B. Use vague quantifiers rather than specific metrics 
+C. Provide a balanced scale 
+D. Provide scales that approximate the real world distribution Answer: B
+
+
+Mooc5_Quiz7 Q1: Under what circumstances is remote testing appropriate? I. It is difficult to access the product/experience. II. Participants from a variety of geographic locations are needed. III. Time is limited. IV. There is a lot of Personally Identifiable Information required. V. All of the above 
+A. I, II, III 
+B. I, IV 
+C. I, III, IV 
+D. II and III 
+E. V Answer: D
+
+
+Mooc5_Quiz7 Q2: What consideration is not important when deciding what platform or technology solution you will use for testing? I. Metrics that may be collected II. Panel access III. Network speed requirements IV. Screen, Audio, or other data collection, as appropriate for test V. None of the above 
+A. I, II, III 
+B. I, II 
+C. II, IV 
+D. I, III, IV 
+E. V Answer: E
+
+
+Mooc5_Quiz7 Q3: When is it most appropriate to conduct remote moderated testing? I. Redirection and discussion are required II. Users can complete tasks without instruction III. Finding participants local to your lab is challenging IV. You want to see and explore user’s digital contexts V. All of the above 
+A. I, II, III 
+B. I, IV 
+C. I, III 
+D. I, III, IV 
+E. V Answer: D
+
+
+Mooc5_Quiz7 Q4: What elements should a script include for a remote moderated test? 
+A. Obtain Consent 
+B. Make introductions 
+C. Build rapport 
+D. Exact instructions for how to complete tasks 
+E. Set expectations for duration and content of test 
+F. Set expectations for role of moderator and observer Answer: A, B, C, E, F
+
+
+Mooc5_Quiz7 Q5: What preparations should you make ahead of both remote moderated as well as unmoderated testing? I. Review alternate paths II. Be online 10-15 minutes early III. Determine what metrics to collect and how IV. Obtain informed consent V. Overrecruit VI. All of the above 
+A. I, II, III 
+B. I, III, IV, V 
+C. II, IV, V 
+D. I, IV 
+E. VI Answer: B
+
+
+Mooc6_Quiz2 Q1: What makes these good research questions for a needs-finding study? (Select All that apply)
+  #1
+NEEDS FINDING PLAN
+The purpose of this study is to research how people currently do their laundry and if the proposed sensor would enhance productivity.
+- What are the habits of people who do laundry?
+- What problems do people, who do laundry, currently face when attempting to complete their task?
+- What practices inform how and why people, who wash their clothes, do laundry the way they do?
+- What are the constraints of current Smart Laundry Appliances technologies?
+- What Smart Technology features would users find most useful for doing laundry?
+2#
+USER CRITERIA AND RECRUITING STRATEGY
+User Characteristics:
+- Operates laundry appliances regularly
+- Owns laundry appliances
+- Access to laundry appliances off site
+- Smart Home Technology users
+- Smart Phones Users
+- Wifi Access 
+A. They’re open ended, not leading 
+B. They seek to learn about what problems there are with existing solutions 
+C. They are questions that can be answered by interviewing the target user population 
+D. They will help the researcher learn how users currently complete the activity that their design will try to improve Answer: A, B, C, D
+
+
+Mooc6_Quiz2 Q2: Which of the following methods would be the best approach for answering the stated questions? 
+A. Qualitative research such as user interviews or focus groups 
+B. Quantitative research such as surveys 
+C. Quantitative research such as A/B testing 
+D. Qualitative research such as user testing a prototype Answer: A
+
+
+Mooc6_Quiz2 Q3: Which of these examples of personas could be more effective for guiding a design solution?
+#1
+Persona 1
+Project Manager in Training Unit
+Jorge is 35 years old, for years he used to work as a trainer in his country. Three years ago,
+he joined Training Unit and keeps on organizing Training Activities — approximately 5 per
+year. He considers himself as an experience Project Manager and distributes his knowledge
+to Training Unit newcomers. He is barely interested in new technologies and a bit sceptic
+towards new ICT system. However, he hopes that it will take away at least a bit of the
+administrative burden from him, so he can really focus on the content of the training course,
+not on the organizational matters.
+
+Persona 2
+Assistant
+Julie works in the same team as Jorge. She is 30 years old, pretty fresh in her organization.
+One year ago, she has been assigned to support Jorge in his activities. However, she is also
+supporting 4 other Project Managers. She likes new technologies, in her free time she is
+using social media. Working in Training Unit is not maybe her dream, but she appreciates the
+stability. Julie would like to find the easiest way to keep the meeting data from all the
+meetings she support in a similar way. Otherwise, it is very complicated for her to find
+requested information.
+
+Persona 3
+Head of Unit
+Adam is 55 years old and with vast experience in his area of expertise — training. He joined Training Unit 6 years ago and was leading it through many changes. Now, the Unit is growing rapidly and Adam feels a bit lost. He receives the updates from Project Managers, but he doesn’t have the opportunity to follow the meetings on his own. He is also frustrated with complaints received from assistants and Project Managers taking over someone else's project. They seem never to be able to find required information.
+2#
+ALI
+Age: 25
+Occupation: Full time student at an international college, part time Uber driver.
+Location: Brisbane, Australia.
+Life stage: Living in a sharehouse with other international students.
+Motivators:
+The teachers weekly email announcements help keep him on track.
+Likes to use any spare time to catch up on study time.
+Likes study plans to be on the cloud so they are available anytime, anywhere.
+Is motivated by seeing academic progress towards final grades.
+Constraints:
+Finds it difficult to pivot from the plan when falling behind or problems emerge.
+Plans sometimes lack detail: has a tendency to keep information in his head.
+Needs a regular study routine to stay focused.
+
+MYA
+Age: 29
+Occupation: Full time student at an international college, casual waitress.
+Location: Brisbane, Australia.
+Life stage: Shares an apartment with her Australian partner.
+Motivators:
+Extrinsic rewards like making time for social plans on the weekend.
+Sharing progress with friends, and getting positive reinforcement.
+Likes to block out whole days to really focus on assignment tasks.
+Likes to use a combination of iPhone reminders and paper plans.
+Constraints:
+Thinks that time spent to learn a new planning technology may not be worth it.
+Academic skills such as referencing and research skills are a little rusty.
+Needs to see both the big picture, and the day to day priorities. 
+A. #2 because it includes relevant demographic information, motivations and needs related to the design problem, and characteristics could constrain the persona’s ability to use a system. 
+B. #1 because there are more personas and they’re in paragraph form 
+C. #1 because the picture in #2 is distracting Answer: A
+
+
+Mooc6_Quiz2 Q4: Read the project brief, then the scenario. What conclusions might you draw from the scenario that would inform the design? (Select all that apply)
+PROJECT BRIEF
+
+In a world afflicted by famine, poverty and inefficiencies, half of the total available food [1]
+is (especially in the western world) wasted due to a thought totally conformed to aesthetic
+standards before of quality (for what concerns the buyers), and to economic pressures on
+the market (for what concerns the goods exchange and globalisation). This can lead to
+catastrophic consequences on the social (scuffles), environmental (land consumption, water
+shortage) and, in the end, on geopolitical equilibrium.
+
+The main question is: can a software improve the quality and quantity of food
+consumption in a modern social way?
+
+The system is called “Foodealize”, resembling the union of the words “Food” and “Realize”
+or ’Idealize” (letting the users imaging which fits more to them).
+
+Foodealize is a platform born by taking into account all the issues arisen by the users that
+are concerned about the lack of long-term vision about food redistribution over the
+population; in particular, wants to provide its users a useful set of tools that can help them
+to accomplish their needs of eating (if they act as “consumers”) and their need to share
+(whether they act as “producers”), keeping always an eye to the possibility to make
+business.
+
+As this system will run under the form of mobile application, it will give to the users the
+possibility to get the advantage of the built-in device sensors (like GPS), as well as the
+connectivity capabilities that pervade our lives in the last decade.
+
+Last but not least, a robust centralized infrastructure will be “behind the scenes” to
+guarantee a proper service to the users: in fact, a client-server architecture is the only one
+that can provide the data durability and the coordination of the activities between the
+application installed on multiple devices.
+---
+George
+George is a 32 years old owner of a fry shop based in Los Angeles. He is getting a pause with his business consultant discussing how important nowadays is the efficiency aspect when applied to storage of products. One of his colleague, Robert, says that the last year, thousands of pounds of unsold food have turned out to be a great loss and advises George to employ a manager for his company.
+
+Unfortunately, George does not have enough money to have a manager so he decided to rely on information technology. After a couple of weeks, his friend Jessica, owner of a pizzeria in Tucson, tells him about an app called "Foodealize" that can help him to reduce losses. Can it be true? It’s Friday evening and George will close the shop in about one hour. Unfortunately, many hamburgers and chips are left unsold so he decides to rely on Foodealize: on the screen appears the possibility to create a “leftover selling” which automatically suggests an offer of 2$ for each of the ten hamburgers unsold, so he takes a photo and puts it on the platform. After 5 minutes, Mary Smith books two hamburgers, and after two minutes more, James Caves asks for 4 hamburgers. After ten minutes, James Caves comes to the shop and pays George 8$ for his hamburgers. At the end of the working day, Mary Smith didn’t come so George gives her profile a “dislike” vote while giving James a “like” vote. George is satisfied in any case because he earned 8$ dollars instead of throwing 4 good hamburgers away. 
+A. George needs the app to work efficiently, since he will likely be using it at the end of the day and will only have a short period to sell the leftover food 
+B. Consumers need to find out about the food availability right when it is posted, since it will likely be at the end of the day. Pushing notifications to consumers when food is posted would be useful in the app 
+C. The app’s success will rely on users following through on picking up their purchases; making users pay in-app rather than in the store will increase the likelihood that all the food is picked up 
+D. George does not care about making money since he is throwing the food away anyways, so all the leftover food should be posted on the app for free Answer: A, B, C
+
+
+Mooc6_Quiz4 Q1: Download Attachment #1 as .pdf and read in full to answer questions 1 and 2. The stated purpose of this user test is: The test is designed to validate the main purpose of the project which is: “Designing an affordable and easy to use method to archive insurance related files electronically while keeping in mind that the environment has an unstable internet connection and customers can’t wait until all documents are uploaded”. While this is a good start, after reading through the user test plan and scenarios, which of these options provides a more specific goal? View PDF File Learner Example of User Test Plan PDF File 
+A. The goal is to discover whether the web browser tool or Dropbox is easier for users’ file management needs 
+B. The goal is to get users to explain what exactly their ideal system would be so that the researcher can design that for them 
+C. The goal is to understand the users’ current way of doing things 
+D. The goal is to discover whether users like the way that Dropbox looks better than the web browser tool Answer: A
+
+
+Mooc6_Quiz4 Q2: If this was the full test plan, which of the following suggestions might help clarify the plan? 
+A. Specify Recruiting Criteria 
+B. Complete the Test Script 
+C. Add task instructions for users to replicate 
+D. Include Follow-Up Questions Answer: B, C
+
+
+Mooc6_Quiz4 Q3: Download Attachment #2 as .pdf and read in full to answer questions 3 and 4. Which of these aspects make the key findings section particularly good? View PDF File Learner Example of Key Findings and UX Issues PDF File 
+A. It lists UX issues ranked by priority based on evidence of actual user testing feedback 
+B. It includes actionable recommendations of how to fix the UX issues 
+C. It includes visuals of possible designs that would fix the UX issues 
+D. It only focuses on two main UX issues Answer: A, B
+
+
+Mooc6_Quiz4 Q4: For each UX issue, the report includes the: 
+A. Severity 
+B. Evidence 
+C. Clear description of the problem 
+D. Name of the participant who encountered the issue Answer: A, B, C
+
+
+Mooc6_Quiz4 Q5: Is this a good scope for a user test?
+1.3 Methods
+Scope of the evaluation
+The scope of the evaluation includes the most frequently used functions of the app, which are:
+- Report an event when someone else is being a victim of robbery.
+- Check the map to see if a place is dangerous.
+- Protect themselves in case they are the victim of smartphone robbery. 
+A. Yes, it has users test the core functions of the app 
+B. No, a user test needs to include testing every single task in the application to deliver valuable data 
+C. No, a user test must focus on only one task 
+D. No, a user test needs to compare two different systems Answer: A
+
+
+Mooc6_Quiz4 Q6: What heuristic does this violate?//needaddimage 
+A. User control and freedom 
+B. Error prevention 
+C. Visibility of system status 
+D. Recognition vs recall Answer: A
+
+
+Mooc6_Quiz5 Q1: Which of the following are among key tasks that were identified? //needaddimage 
+A. Check map, Help, Activate function “Robbery” 
+B. Check map, Create a post, Log Out 
+C. Customize automatic functions, Help, Log Out 
+D. Change security code, Create a post, Check recent events Answer: A
+
+
+Mooc6_Quiz5 Q2: Could you run user tests with this prototype and receive useful data to inform your designs? //needaddimage 
+A. Yes, any type of prototype can be used for user testing 
+B. No, only fully interactive digital prototypes will give you useful data 
+C. No, user testing is most effective when you use hand-drawn prototypes rather than ones created with graphic design software 
+D. No, you shouldn’t use a prototype to conduct user testing Answer: A
+
+
+Mooc6_Quiz5 Q3: This example would most likely be an example of (choose the BEST response): //needaddimage 
+A. Wireframes 
+B. Hi-Fi Prototype 
+C. Lo-Fi Prototype 
+D. Yes, wireframes need to look like a completely finished product Answer: B
+
+
+Mooc6_Quiz5 Q4: Rank these prototypes in order of fidelity, from low to high. //needaddimage 1 2 3 
+A. 1, 2, 3 
+B. 3, 2, 1 
+C. 1, 3, 2 
+D. 2, 1, 3 Answer: A
+
+
+Mooc6_Quiz5 Q5: What makes the example shown effective at conveying the  navigation flow? (Select all that apply) //needaddimage 
+A. It specifies where the user should click to progress to the next screen. 
+B. It is a digital prototype 
+C. It contains placeholder text Answer: A
+
+

@@ -1,0 +1,7 @@
+pandas
+matplotlib
+beautifulsoup4
+pytesseract
+pillow
+pyperclip
+googletrans==4.0.0-rc1

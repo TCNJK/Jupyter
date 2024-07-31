@@ -1,0 +1,30 @@
+WDU203c_Mooc1_Quiz1 Q1: Which of the following is NOT a reason why building products with great UX is hard? A. You are not the user B. Computers are weird C. Software is (usually) complex D. There is no known process that we can follow to create good UX Answer: D
+
+
+WDU203c_Mooc1_Quiz1 Q2: True or false: You need to have a degree in psychology in order to understand the principles behind good UX. A. True B. False Answer: B
+
+
+WDU203c_Mooc1_Quiz1 Q3: True or false: “User Experience” only describes the experience that people have while actually using a product, and not other related experiences like acquiring the product or fixing it when it breaks. A. True B. False Answer: B
+
+
+WDU203c_Mooc1_Quiz1 Q4: True or false: One of your goals in designing products with a good user experience should be to fail as early and often as possible. A. True B. False Answer: A
+
+
+WDU203c_Mooc1_Quiz1 Q5: Which of the following is not a phase in the iterative design process? A. Build B. Design C. Stylize D. Assess Answer: C
+
+
+WDU203c_Mooc1_Quiz1 Q6: A model of the design process that shows both the iterative nature and also how it progresses towards an end goal is: A. The spiral model B. The waterfall model C. The hub-and-spoke model D. The wave model Answer: A
+
+
+WDU203c_Mooc1_Quiz1 Q7: Interviews, Observations, Surveys, User Testing, and Inspection Methods are all examples of: A. Common UX mistakes B. UX Design methods C. UX Research methods D. UX Marketing methods Answer: C
+
+
+WDU203c_Mooc1_Quiz1 Q8: Which of the following components of UX were discussed in this week’s lectures? Check all that apply. A. Value B. Usability C. Desirability D. Adoptability E. Scrollability F. Monetizability Answer: No answer found
+
+
+WDU203c_Mooc1_Quiz1 Q9: Which of the following questions would be most relevant to the UX criterion of “Adoptability”? A. Where do users currently look for products or services like the one we will offer? B. Do users prefer bright or muted colors for graphics in this product category? C. How much would people be willing to pay for the product or service we plan to offer? D. What percentage of people succeed in completing key tasks using the product? Answer: A
+
+
+WDU203c_Mooc1_Quiz1 Q10: True or false: In this course, you will “get your hands dirty” and gain hands-on experience with UX Research and Design methods. A. True B. False Answer: A
+
+
