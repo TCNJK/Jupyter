@@ -1,1 +1,90 @@
-MOOC1_QUIZ3 Q1: Phần "Tầm nhìn trung tâm" của trường nhìn của con người, trong đó mọi người có thể đọc văn bản và nhận ra chi tiết trong hình ảnh, xấp xỉ bao nhiêu?
+[
+    {
+        "domain": ".chatgpt.com",
+        "expirationDate": 1723532976.573659,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_puid",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "user-u0MfFCCEs1YuPla9HgxnSaqr:1722928174-9AA5U2ZvjRqsh1Kjym%2B%2F9bAaCqIW8E7STEyfkTHkkd0%3D"
+    },
+    {
+        "domain": ".chatgpt.com",
+        "expirationDate": 1730704175.468072,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "__Secure-next-auth.session-token",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..I-TsqPOL-63gKbQ_.gPJzX53e6VShj8s9mykHNEun8QZ1b8wYOPSgYUC72qkn9h72Rgw-DXWg0ewT_Q_wmCvrQpggd22CfoSMaS7UBezVaae5q8JVzhMxeYGuE_BIc2OYpvXWJWYhZsAt2cPG3nsIWSZYiKui4onewoSD_YWzoi3vTMiqQKTxhEqa85hEID7VDh_zigiSGnQQNCHPB8Mch70M-VbmpYKUr9Lat-HannqPgfKFfiBKBk78oKe3JKbRKXowgSK9s_vSOSVXqlQkRbK36dBjEFCcCDEiaSLfnRyD7qj5IvrJde4umcFGPZ7JT4pLZpiJYdACZxGTjD8txoLsJgvRdt9jo6cCHCAI9uUaKR1meeE8GU94P66aICIxVO5sY2jYTrzqYJMyWOK4B7MDjBYjM1Q4DnG8S-crD6HkqyR7Gi1gOCE9b927oL1hG9aau9b3bXVtoMQ8frAp5QDcnSFQrlzWPI0ev0ev0G2zwBjkp1-eUUXk-ba6xA_SbnuQg9WzL1ZrrN2TGGGxEPUPKGSOdpC2r2Xgmpc8dH07cdmyqObSmSTGzoyupQN6Z3QxteGRjMzIF0LhJ5weX94lVi47hR8M2_8s0u2sNpkqM3bCRzjEA01UZCZ5d1zEOKVkmZ1wM5dJG4ooJGsjbAAdpvJma_ZTmzlxV9dnLVSFHa-273Jn25-GtR5A1IfCcka-BM3EMc95N41otYTCsCaZc04FC78q_-wqObKjr6sJIyRbMrjLAZhUq9RiAtXpvjPg-3dmP7MYTtqg2Lr3NrDdTu7ens3wMYXfLR7dVoGHa-Shk8TZf0VwapFmkVWk2bdB24OFRqAQtURUEglcl8WMQr1Fpge7kuqD3LiErNKAZAJe-8n9hu-ugfLKL4jHv-leZMS2VmO3axtoQzVNuFonxTVJ4EjI2Jl6RKAyhgNtjiriAY_NXv47cTfy_g-s8L7IRigM3DGbMpwQ2v389NRHfQoOcsTfsvLQXnqVoDjTMlhnlZz6vAa848Ryod1QgpirtdtEOi8PR0dOXGnNAADG3132Hx-mmDR-ij00W1yJcKdJeXiAe4WpyfmIS8B9Lh7AOXC-2GGY76VluDVa233yX0UdVpEsubiGIlW_aMKKqJz9Xuw__UKc_Sjtucf-oZJUhYr9JSJ7dZj-c59ZzycGCIfuNBm9s7Xa0ojgVOhkVsJx_qYcGAQFAHSGF2eOYKAQQ5ewOHSJkTRO_lK9akRZsli-iLnFNUqap1F_1-N1bWUrx1vzKlxodTbY0jdlxfsgZXGsix0L0_G8-zuggKgcSwaiktJlX5muFHJhfLU1t43eAomYUCSgDCAou7_xifuryOnnYO7eqwLUuPxbH96j_a_HyXhvPQgOojd06NiBBbofXYf4QuekjiRFRT77noosS4ddlqb_-VJo9OM2Znup_iMJ5x-lw76b_fGYEmDh_16swxFHXgM37_gFP0coRT_ZlWj72HyjaObdjHIrR2G2AO_7Z-fmyfRS7a9FgI1NTOaBxDmeSGpY0p6qISdCyZz7YLJPNr0NO7x4-e54bFUdNGjSYSbxys5hB_YVd_cneo-wt0meCn-aD1eu47IGmlhsSxZhpHcCtSzQcyxgA5psb5_FxBzHEMPn7r1kmJP_hKzN8diKP0UaM-OMICQaWtAg7rHAbqpEUUZq4v6lZBcwqKx6B2aYENBCtbFrEAyAutzWS2XPt8VbXCy8bkH5ZmJ0rGICs5xU7G20mu5cikWXV4K0tByZBLnc4yWErOunei9qcWE9x9fEMAcfjxxGWVlikT7A8YgQre-Uiu0N8p02aTipgJpOCbJ8rJNrZiJCL751gdny8L-QIKx8J05iLFTc_4ANjCEJOi8G6BHvbBaFqtDYvjNzM3KN6R_voQJoJIkmAwBqLLs-x3fxlxHmBEDBGdQwbGqQeOL3boqAg6SfIxweef7_I6cJNMwRXtVfFYmTiRl2FwlZejQ22T7x1mpAPm7s0_Gmcjr_Sva1AphL5XmfW3jJlMfWkNEHgUkq9X8W-JtzJAiouzhJuRZhj36-ta5TamoIQ3jmgJZfHbPjIeVZrTXZDI-Qqtm_tKtX5ID5JEhxya6rpzo8Bfo_mj07iiaRMbya_JfdbxTGEb97iYgvsM4BjBs2i-Hne9B3o-nT8aStSiaHlj9PtElg0KHdbrqGEckx3bTxjb_zhZjaubjJZ7EIVVvIqndoOS6gCUhWpESBJ2HkcCf4Ka1B5M0y_erx1Tpw-i6JrEp3rBY7WLFBIacMiEUhyiAV42E38ET7UZ3S_agcaSBE73IAZTomwTG6X7EyAATnrHJCTzaRwEhqjuq681yx0K22HVNW3uDQqUeLTvgTOrFukkvcYnJQz_YzaP53JYTeDqRwPiQWTd8_KTmCsz4akwvgxNk3TFd2QsGCMvf0TYzY-N6KymGSI9bSlNGwBUFp9qE_7mfKBQEM2XMnHEPxUcNLzWt5-O51nFsHywVLoVk4dSx1TJoapviIXmHvkXrvuhjKrc7e3_52hNVHI9FLPmkaRTeQmUNbZfyWn4dv-xii4P4agGIGIQcUfq9ufxCoeKDt7fiGeQ3rBpXM_YxqJKIuR0fxrPx04-bKtfXaVrIZrXAXVmCUUwRoxAHQA8gkeEsby5HV8wiWMG4RRkuQJHdZ15xnRyQBBIxYkLP5PCCQTinhv4VXlDoDf3nKiemIONmpGRwGp1wyKhkGwrsqILUKQp6l66GSslK7bKOr02N_3btzHfLmpqbB5BTxXZl_Pi27klr7xSJwe2cKYtMX8Ac6n4M7KqcGW7_8DhNI7VSGz2Q7aY6jcGLv0INDroNxWlPguXoCj7cZu5-H7Wi9G-WohHYl9vp9zhczQWtbZr1S0XAIW-00MvP9ngrEq-XznSB0Ow0g-E3h2PX8O2xpR-iz_cisIvF8cVz1hOiYpNoELHC7CTYxcS77HH6Jwd7_GoY.trT1o1Ff9wfrOL6MtKXqgg"
+    },
+    {
+        "domain": "chatgpt.com",
+        "expirationDate": 1722929975.468167,
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "__cflb",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "04dTofELUVCxHqRn2XjKNSiBk2TVxCZisveSf8fxLd"
+    },
+    {
+        "domain": ".chatgpt.com",
+        "expirationDate": 1722931729.202864,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "__cf_bm",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "Y4UEnpxOcefsLuGRYEe_kIf4gklPAdQ0Nsdi7wjpS8c-1722929927-1.0.1.1-CfSGHqZhF2fBRnFPbEwnelnFrZgWy2W4.uNpxlgF.1mLlUz8g_wBREpl3QZ.AsTMnajym2b12CuJXib4Cz7zng"
+    },
+    {
+        "domain": ".chatgpt.com",
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "_cfuvid",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "2e3_OWVUoS3X0RRfagd236M.ztOyXutJI_tBeNyXgv0-1722928173614-0.0.1.1-604800000"
+    },
+    {
+        "domain": "chatgpt.com",
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "__Host-next-auth.csrf-token",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "6300ce30177ea33b6457663a1fc53ee4feb81a44119ae3cbe82236c07c6c5a87%7C1632f70ce49a54499acf3cf19ee8a5878cec5c2e9b87873553adb64a63643dd9"
+    },
+    {
+        "domain": "chatgpt.com",
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "__Secure-next-auth.callback-url",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "https%3A%2F%2Fchat-onramp.unified-8.api.openai.com"
+    }
+]
